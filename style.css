@@ -8,9 +8,9 @@
 }
 
 .inner-div {
-    border: 2px solid rgb(170, 216, 228);
+    border: 2px solid wheat;
     background-color: #5e0a27;
-    box-shadow: 0 2px 5px rgba(212, 161, 161, 0.863);
+    box-shadow: 0 5px 10px rgba(160, 116, 116, 0.2);
     color: wheat;
     width: 30%;
     height: 30%;
