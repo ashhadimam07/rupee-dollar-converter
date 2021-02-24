@@ -39,6 +39,12 @@ input {
 @media (max-width: 1200px) {
     .inner-div {
         width: 90%;
-        height: 40%;
+        height: 30%;
+    }
+}
+
+@media (max-width: 500px) {
+    p {
+        font-size: 20px;
     }
 }
