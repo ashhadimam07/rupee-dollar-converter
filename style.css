@@ -33,6 +33,7 @@ p {
 input {
     width: 70%;
     height: 30px;
+    font-size: 18px;
 }
 
 @media (max-width: 1200px) {
